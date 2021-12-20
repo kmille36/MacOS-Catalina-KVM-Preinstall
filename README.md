@@ -1,4 +1,4 @@
-# MacOS-Mojave-KVM-Preinstall
+# MacOS-Catalina-KVM-Preinstall
 Mac OS running on QEMU-KVM (Pre-install 20GB)
 
 -Note: It will use all available free ram and CPUs. The script is only for Ubuntu, Debian.
@@ -17,13 +17,13 @@ Mac OS running on QEMU-KVM (Pre-install 20GB)
 
 Download:
 ```console 
-curl -skLo MacOS-Mojave.sh https://bit.ly/3e3KjnN && chmod +x MacOS-Mojave.sh
+curl -skLo MacOS-Catalina.sh https://bit.ly/3e3KjnN && chmod +x MacOS-Mojave.sh
 ```
 
 Usage: 
 - Download and install:
 ```console 
-bash MacOS-Mojave.sh 
+bash MacOS-Catalina.sh 
 ```
 - Start MacOS VM in silent:
 
