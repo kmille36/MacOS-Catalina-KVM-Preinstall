@@ -17,7 +17,7 @@ Mac OS running on QEMU-KVM (Pre-install 35GB)
 
 Download:
 ```console 
-curl -skLo MacOS-Catalina.sh https://bit.ly/3e3KjnN && chmod +x MacOS-Mojave.sh
+curl -skLo MacOS-Catalina.sh https://bit.ly/3J7lyWk && chmod +x MacOS-Catalina.sh
 ```
 
 Usage: 
