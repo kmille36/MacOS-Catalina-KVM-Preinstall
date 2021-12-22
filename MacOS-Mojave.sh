@@ -4,7 +4,7 @@ if [ $vtx = 0 ] ; then echo "[Error] Your PC Not Support VT-x / AMD-v. Press Ctr
 fi
 echo Installing Software...
 sudo apt update -y
-sudo apt install git qemu-system qemu-utils python3 python3-pip -y 
+sudo apt install wget git qemu-system qemu-utils python3 python3-pip -y 
 git clone https://github.com/foxlet/macOS-Simple-KVM.git
 cd macOS-Simple-KVM
 sudo python3  -m pip install click
