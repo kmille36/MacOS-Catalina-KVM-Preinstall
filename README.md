@@ -1,4 +1,5 @@
 # MacOS-Catalina-KVM-Preinstall
+
 Mac OS running on QEMU-KVM (Pre-install 35GB)
 
 -Note: It will use all available free ram and CPUs. The script is only for Ubuntu, Debian.
